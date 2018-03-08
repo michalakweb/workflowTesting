@@ -21,6 +21,10 @@
   "homepage": "https://github.com/michalakweb/workflowTesting#readme",
   "dependencies": {
     "bootstrap": "^4.0.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-sass": "^3.1.0",
     "jquery": "^3.3.1",
     "popper.js": "^1.12.9"
   }
