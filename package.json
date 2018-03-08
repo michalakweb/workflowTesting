@@ -1,0 +1,27 @@
+{
+  "name": "workflowtesting",
+  "version": "0.1.0",
+  "description": "A folder for optimizing my workflow settings.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michalakweb/workflowTesting.git"
+  },
+  "keywords": [
+    "workflow"
+  ],
+  "author": "Mateusz Michalak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michalakweb/workflowTesting/issues"
+  },
+  "homepage": "https://github.com/michalakweb/workflowTesting#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  }
+}
